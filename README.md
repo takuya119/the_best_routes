@@ -47,4 +47,4 @@ README〜ER図作成:8/6〆
 本番リリース:9/15  
 
 ■ 画面遷移図URL  
-https://www.figma.com/file/hO25GdNAYApTByQoCKbibG/toppage?node-id=0%3A1
+https://www.figma.com/file/hO25GdNAYApTByQoCKbibG/toppage
